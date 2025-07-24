@@ -1,4 +1,4 @@
-# MOUSE_CONTROL
+# MOUSE_CONTROL_USING_HANDGESTURES
 Controlling  mouse using hand gestures
 
 *Project Overview :This project implements a real-time, touch-free mouse control system utilizing hand gesture prediction. By combining computer vision and deep learning, it enables users to control mouse movements and clicks through hand gestures captured from a webcam.
